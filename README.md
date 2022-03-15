@@ -1,4 +1,4 @@
-# week 1
+# Week 1
 
 
 ## Overview 
@@ -24,5 +24,18 @@ Once you have installed git copy this git repository using the command:
 ```bash
 git clone https://github.com/sbc-coding-sec-experience/week1.git
 ```
+
+
+## Task 2 - Have a character move left to right
+
+
+
+## Task 3 - Have a character jump
+
+
+## Task 4 - Change characteristics of movement
+
+
+
 
 
